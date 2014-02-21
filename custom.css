@@ -1,0 +1,9 @@
+.panel-body{
+  text-align: center;
+}
+
+.list-inline > li{
+  font-size:2em;
+  padding-right: 30px;
+  padding-left: 30px;
+}
