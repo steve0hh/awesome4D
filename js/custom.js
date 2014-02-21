@@ -1,5 +1,5 @@
 getResults();
-setInterval(function(){getResults()}, 5000);
+setInterval(function(){getResults()}, 30000);
 
 function getResults(){
   $.ajax({
